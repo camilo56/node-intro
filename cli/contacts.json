@@ -1,0 +1,17 @@
+{
+  "contact 1": {
+    "firstName": "camilo",
+    "lastName": "colorado",
+    "phoneNumber": "31223234"
+  },
+  "contact 2": {
+    "firstName": "camilo 2",
+    "lastName": "colorado",
+    "phoneNumber": "31223234"
+  },
+  "July Saavedra": {
+    "firstName": "July",
+    "lastName": "Saavedra",
+    "phoneNumber": "1234"
+  }
+}
