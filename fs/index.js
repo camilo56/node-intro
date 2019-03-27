@@ -8,4 +8,4 @@ const newJson = JSON.parse(file);
 console.log("I'm a toString outcome", file.toString())
 console.log("I'm a toJSON outcome", newJson)
 
-fs.writeFileSync(`${root}/files/outcome.ign.json`, JSON.stringify([...newJson, {"name": "made by Node"}]))
+fs.writeFileSync(`${root}/files/outcome.ign.json`, JSON.stringify([...newJson, {"name": "made by Node"}], null, 2))

@@ -21,6 +21,7 @@
   "homepage": "https://github.com/camilo56/node-intro#readme",
   "dependencies": {
     "commander": "^2.19.0",
-    "inquirer": "^6.2.2"
+    "inquirer": "^6.2.2",
+    "mime": "^2.4.0"
   }
 }
